@@ -926,7 +926,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Europea Seguros](https://chatgpt.com/apps/europea-seguros/asdk_app_6a15be4e0e2481918fff2ee6d789548f) - Insurance quotes and policies. *Use case: Get and compare insurance quotes for a policy.*
 - [EverQuote](https://chatgpt.com/apps/everquote/asdk_app_69b84697819c81918517f1a2f3c32cbd) - Compare car insurance quotes. *Use case: Compare car insurance quotes from multiple providers.*
 - [Experian Insurance](https://www.experian.com) - Quick auto insurance estimates. *Use case: Auto insurance quote comparison via Experian.*
-- [HelloSafe Travel Insurance](https://chatgpt.com/apps/hellosafe-travel-insurance/asdk_app_69f076da6cb881918619a90d11852785) - Compare travel insurance plans. *Use case: Compare travel insurance policies to find coverage for a trip.*
+- [HelloSafe Travel Insurance](https://chatgpt.com/apps/hellosafe-travel-insurance/asdk_app_69f076da6cb881918619a90d11852785) - International travel insurance comparison across licensed insurers, plus a check of the travel coverage included with your credit card. *Use case: Type @HelloSafe with a destination and dates to compare quotes, or name your card to see what it already covers and what is missing for the trip.*
 - [Insurance GPT](https://chatgpt.com/apps/insurance-gpt) - AI-driven insurance assistance. *Use case: Comparing policies, understanding coverage terms, getting insurance guidance.*
 - [Insurify](https://insurify.com) - Compare car insurance quotes. *Use case: Multi-carrier auto insurance quote comparison.*
 - [Jerry.ai Car Insurance & Care](https://getjerry.com) - Insurance and repair estimates. *Use case: Auto insurance comparison and repair cost estimates.*
